@@ -1,15 +1,14 @@
 //
-//  ViewController.h
+//  ImageModel.m
 //  DragPhotoDemo
 //
 //  Created by 关旭 on 2018/12/17.
 //  Copyright © 2018 关旭. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ImageModel.h"
 
-@interface ViewController : UIViewController
+@implementation ImageModel
 
 
 @end
-
